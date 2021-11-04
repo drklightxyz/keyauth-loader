@@ -6,4 +6,4 @@
 5) Build project as Release x64 and enjoy!
 
 # Note
-Please change up the AntiDebug a bit because it is not very safe.
+Add AntiDebug yourself because i was too lazy to add it :)
